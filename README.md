@@ -1,6 +1,6 @@
 <h1>Use Linux commands to manage file permissions</h1>
 
-### [YouTube Demonstration (work in progress)](https://youtu.be/URL)
+### [YouTube Demonstration](https://youtu.be/m_jjfZpxq1I)
 
 
 <h2>Description</h2>
